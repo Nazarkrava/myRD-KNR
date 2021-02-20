@@ -1,0 +1,49 @@
+[33mcommit 5a449a4a5c77c87422d86c6f1ec8d4e6d9e8897c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mdevelop[m[33m)[m
+Merge: 3ea20ba cd07b0e
+Author: Nazar Kravchenko <Nazarkrava3@gmail.com>
+Date:   Sun Feb 21 00:28:24 2021 +0200
+
+    Merge branch 'styles' into develop
+
+[33mcommit 3ea20baadcd7fa89e0ffd3a52edc2ba5b10e4096[m
+Merge: 9324d79 795b3ce
+Author: Nazar Kravchenko <Nazarkrava3@gmail.com>
+Date:   Sun Feb 21 00:26:20 2021 +0200
+
+    hz
+
+[33mcommit cd07b0e75e26c7278711bf3b1f405817673503cc[m[33m ([m[1;32mstyles[m[33m)[m
+Author: Nazar Kravchenko <Nazarkrava3@gmail.com>
+Date:   Sun Feb 21 00:20:22 2021 +0200
+
+    styles
+
+[33mcommit 795b3ceb6812ca5a8c3556e9d531d786c7072489[m[33m ([m[1;32mimages[m[33m)[m
+Author: Nazar Kravchenko <Nazarkrava3@gmail.com>
+Date:   Sun Feb 21 00:15:56 2021 +0200
+
+    Second commit
+
+[33mcommit df14c8cb5dc95eb213e5209cd080441519be1acb[m
+Author: Nazar Kravchenko <Nazarkrava3@gmail.com>
+Date:   Sun Feb 21 00:13:03 2021 +0200
+
+    Images
+
+[33mcommit 9324d7944e21c92b98e16b07a9038e25276304dc[m
+Author: Nazar Kravchenko <Nazarkrava3@gmail.com>
+Date:   Sun Feb 21 00:06:59 2021 +0200
+
+    Index1
+
+[33mcommit 116942f541c26c369026b100d4ec33b1a0ab0582[m
+Author: Nazar Kravchenko <Nazarkrava3@gmail.com>
+Date:   Sun Feb 21 00:06:27 2021 +0200
+
+    Index
+
+[33mcommit 3b2ad97886931114a9d420a612a04c2bf5e3ae9c[m
+Author: Nazar Kravchenko <Nazarkrava3@gmail.com>
+Date:   Wed Feb 17 00:37:01 2021 +0200
+
+    First Commit
